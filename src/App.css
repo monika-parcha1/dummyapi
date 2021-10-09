@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.userDiv{
+  height: 400px;
+  width: 900px;
+  overflow-y: auto;
+  background: antiquewhite;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+.mottu {
+  height: 20px;
+  width: 100%;
+}
+
+
